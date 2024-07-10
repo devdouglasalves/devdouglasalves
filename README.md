@@ -17,5 +17,5 @@
 Atualmente estou cursando o 2° período de Engenharia de Software e me dedicando aos estudos para ingressar na área de desenvolvimento de software.
 
 ## Contato
-E-mail: Douglas002alves@gmail.com
+E-mail: douglas002alves@gmail.com
 </br>Telefone/WhatsApp: (34) 99880-4591
